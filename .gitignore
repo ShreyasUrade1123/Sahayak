@@ -26,9 +26,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Screenshot files
-Screenshot 2025-11-02 075029.png
-Screenshot 2025-11-02 075046.png
-Screenshot 2025-11-02 075108.png
+
 
 .claude/

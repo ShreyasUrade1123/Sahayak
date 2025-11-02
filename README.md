@@ -70,15 +70,15 @@ Built for developers, content creators, and businesses needing advanced voice AI
 ## Screenshots
 
 ### Landing Page
-![Landing Page](./Screenshot%202025-11-02%20075029.png)
+![Landing Page](./images/Screenshot%202025-11-02%20075029.png)
 *Modern hero section with feature highlights and call-to-action*
 
 ### Text-to-Speech Interface
-![Text-to-Speech](./Screenshot%202025-11-02%20075046.png)
+![Text-to-Speech](./images/Screenshot%202025-11-02%20075046.png)
 *Multilingual text-to-speech with automatic translation and voice selection*
 
 ### Voice Cloning Interface
-![Voice Cloning](./Screenshot%202025-11-02%20075108.png)
+![Voice Cloning](./images/Screenshot%202025-11-02%20075108.png)
 *Real-time audio recording and voice cloning with 4-language support*
 
 ---
